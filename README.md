@@ -13,7 +13,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/livinusonyenso/ugwuja_livinus_frontend-test
    cd RiteaseApp
    ```
 2. Install dependencies:
